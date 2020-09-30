@@ -1,0 +1,8 @@
+Jetpack/Library
+Jetpack/Logs/
+Jetpack/Packages/
+Jetpack/ProjectSettings/
+Jetpack/Assets/Jetpack.meta
+Jetpack/Assets/Jetpack/Editor.meta
+Jetpack/Assets/Jetpack/Editor/JetpackDependencies.xml.meta
+Jetpack/Jetpack.unitypackage
